@@ -60,9 +60,9 @@ Este proyecto analiza la relación entre características morfológicas y el com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cgutierrez05&show_icons=true&theme=tokyonight&custom_title=Carla%20Gutierrez%20%E2%80%94%20GitHub%20Stats&cache_seconds=7200&v=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlagutierrezc&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgutierrez05&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlagutierrezc&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgutierrez05&layout=compact&theme=tokyonight)  
 
 ---
 
